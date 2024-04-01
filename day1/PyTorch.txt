@@ -1,5 +1,6 @@
 Here are some useful resources to get started with PyTorch deep learning framework:
 
+
 ### Introductory Videos and Tutorials
 
 * **PyTorch**: Pytorch's own website offers several quick start guides, user manuals, and example scripts. Furthermore, Coursera has an Applied Deep Learning Specialization taught by Andrew Ng utilizing PyTorch as its primary deep learning library. Similarly, Udacity's Deep Learning Foundations nanodegree program utilizes PyTorch extensively. Lastly, YouTube channels like Sentdex, Keyspell, Siraj Raval, and TensorFlow Dev Summit feature numerous PyTorch tutorials.
